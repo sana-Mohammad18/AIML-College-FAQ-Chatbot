@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<aiml version="1.0">
+
+    <category>
+        <pattern>HELLO</pattern>
+        <template>
+            Hello! Welcome to the College FAQ Bot. How can I help you?
+        </template>
+    </category>
+
+    <category>
+        <pattern>HI</pattern>
+        <template>
+            Hi! How can I help you?
+        </template>
+    </category>
+
+    <category>
+        <pattern>WHAT ARE THE COLLEGE TIMINGS</pattern>
+        <template>
+            The college is open from 9 AM to 5 PM, Monday to Friday.
+        </template>
+    </category>
+
+    <category>
+        <pattern>WHERE IS THE LIBRARY</pattern>
+        <template>
+            The library is located on the first floor of the main building.
+        </template>
+    </category>
+
+    <category>
+        <pattern>WHAT COURSES ARE AVAILABLE</pattern>
+        <template>
+            We offer Computer Science, Electronics, Mechanical Engineering,
+            and Civil Engineering.
+        </template>
+    </category>
+
+    <category>
+        <pattern>WHAT IS YOUR NAME</pattern>
+        <template>
+            I am the College FAQ Bot.
+        </template>
+    </category>
+
+    <category>
+        <pattern>BYE</pattern>
+        <template>
+            Goodbye! Have a great day.
+        </template>
+    </category>
+    <category>
+        <pattern>WHO IS THE PRINCIPAL</pattern>
+        <template>
+            The principal of our college is Dr. Sharma.
+        </template>
+    </category>
+
+</aiml>
